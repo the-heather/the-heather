@@ -10,7 +10,7 @@
 - 💼 &nbsp; Working as a freelance software engineer.
 - 💞️ &nbsp; I’m looking to collaborate on anything!
 - 📫 &nbsp; How to reach me: theheatherloop@gmail.com
-- 
+
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
