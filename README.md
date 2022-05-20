@@ -3,7 +3,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 👀 &nbsp; I’m interested developing software.
+- 👀 &nbsp; I’m interested in developing software.
 - 🎓 &nbsp; Studying Software Development @TheTechAcademy.
 - 💼 &nbsp; Working as a freelance software engineer.
 - 💞️ &nbsp; I’m looking to collaborate on anything!
