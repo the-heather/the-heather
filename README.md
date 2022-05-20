@@ -6,7 +6,7 @@
 - 👀 &nbsp; I’m interested in developing software.
 - 🎓 &nbsp; 
   ![Udacity](https://img.shields.io/badge/Udacity-grey?style=plastic&logo=udacity&logoColor=15B8E6)&nbsp; Intro to programming<br/>
-- 🌱 &nbsp; I’m currently learning Software Development @TheTechAcademy
+- 🌱 &nbsp; I’m currently learning Software Development @the-tech-academy
 - 💼 &nbsp; Working as a freelance software engineer.
 - 💞️ &nbsp; I’m looking to collaborate on anything!
 - 📫 &nbsp; How to reach me: theheatherloop@gmail.com
