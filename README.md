@@ -14,6 +14,7 @@
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
+  ![C#](https://img.shields.io/badge/-csharp-333333?style=plastic&logo=csharp)
   ![Python](https://img.shields.io/badge/-Python-333333?style=plastic&logo=python)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=plastic&logo=HTML5)
@@ -32,5 +33,7 @@
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=plastic&logo=visual-studio-code&logoColor=007ACC)
   ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=plastic&logo=visual-studio&logoColor=5C2D91)
+  ![PyCharm](https://img.shields.io/badge/-PyCharm-333333?style=plastic&logo=pycharm&logoColor=000000)
+
 
 <br/>
