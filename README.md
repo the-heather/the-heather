@@ -1,7 +1,7 @@
 
 <h2>👋 Hi, I’m Heather</h2>
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+<h3> 👩‍💻 &nbsp;About Me </h3>
 
 - 👀 &nbsp; I’m interested in developing software.
 - 🎓 &nbsp; 
